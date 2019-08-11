@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-idiomatic",
-  "version": "4.0.0",
+  "version": "6.0.0",
   "description": "ESLint config for the idiomatic js style",
   "keywords": [
     "idiomatic",
